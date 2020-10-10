@@ -600,6 +600,7 @@ background-color:  rgb(206, 17, 38);
 #united_kingdom .white.fullLengthVerticalPanel:nth-child(1) .darkRed.innerPanel{
 width: 20%;
     left: 50%;
+    z-index: 0;
 }
 /* New Zealand */
 
